@@ -30,5 +30,16 @@ This project applies regression-based machine learning techniques to predict lif
 - Model tuning with `GridSearchCV`
 - Evaluation: RMSE, Feature Importance
 
-## 🧾 License
-This project is for academic and educational purposes.
+---
+
+## Author
+
+**Emmanuel Ikhimwin**  
+Master of Artificial Intelligence | Western Sydney University  
+[GitHub Profile](https://github.com/ikhimwinemmanuel)
+
+---
+
+## Note
+
+This project is part of my learning journey to showcase my skills and build an AI-focused portfolio.
